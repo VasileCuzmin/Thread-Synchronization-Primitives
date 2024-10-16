@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEventDemo", "Man
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer-TwoWaySignaling", "ProducerConsumer-TwoWaySignaling\ProducerConsumer-TwoWaySignaling.csproj", "{0F7E39B6-330E-4AFB-B94E-C12761E8F3D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadlockDemo", "DeadlockDemo\DeadlockDemo.csproj", "{159F206B-AACE-4EE8-A2A0-3FB8CF7D76CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0F7E39B6-330E-4AFB-B94E-C12761E8F3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7E39B6-330E-4AFB-B94E-C12761E8F3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7E39B6-330E-4AFB-B94E-C12761E8F3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159F206B-AACE-4EE8-A2A0-3FB8CF7D76CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159F206B-AACE-4EE8-A2A0-3FB8CF7D76CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159F206B-AACE-4EE8-A2A0-3FB8CF7D76CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159F206B-AACE-4EE8-A2A0-3FB8CF7D76CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
