@@ -4,8 +4,8 @@ using WebServerDemo;
 
 Console.WriteLine("Server is running. Type 'exit' to stop.");
 
-//PoorWebServer poorWebServer = new PoorWebServer(); // in this case the input is blocked
-//and processing one by one 
+// in this case the input is blocked and processing one by one 
+//PoorWebServer poorWebServer = new PoorWebServer();
 //poorWebServer.Demo();
 
 

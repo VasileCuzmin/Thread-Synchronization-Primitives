@@ -2,6 +2,7 @@
 
 public class PerformantWebServer
 {
+    //we could have used a concurrent queue
     private Queue<string?> requestQueue = new();
 
 
