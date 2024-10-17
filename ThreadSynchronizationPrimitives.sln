@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadlockDemo", "DeadlockDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{F725435A-0398-48EA-9168-9AA5B9E4C3A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServerDemo", "WebServerDemo\WebServerDemo.csproj", "{C42EBC81-73D2-4119-896C-D8C862CF1CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F725435A-0398-48EA-9168-9AA5B9E4C3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F725435A-0398-48EA-9168-9AA5B9E4C3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F725435A-0398-48EA-9168-9AA5B9E4C3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42EBC81-73D2-4119-896C-D8C862CF1CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42EBC81-73D2-4119-896C-D8C862CF1CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42EBC81-73D2-4119-896C-D8C862CF1CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42EBC81-73D2-4119-896C-D8C862CF1CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
